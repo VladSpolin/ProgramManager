@@ -1,0 +1,11 @@
+D:\My projects C#\ProgramManager\ProgramManager\bin\Debug\ProgramManager.exe.config
+D:\My projects C#\ProgramManager\ProgramManager\bin\Debug\ProgramManager.exe
+D:\My projects C#\ProgramManager\ProgramManager\bin\Debug\ProgramManager.pdb
+D:\My projects C#\ProgramManager\ProgramManager\obj\Debug\ProgramManager.csproj.AssemblyReference.cache
+D:\My projects C#\ProgramManager\ProgramManager\obj\Debug\ProgramManager.csproj.SuggestedBindingRedirects.cache
+D:\My projects C#\ProgramManager\ProgramManager\obj\Debug\ProgramManager.Form1.resources
+D:\My projects C#\ProgramManager\ProgramManager\obj\Debug\ProgramManager.Properties.Resources.resources
+D:\My projects C#\ProgramManager\ProgramManager\obj\Debug\ProgramManager.csproj.GenerateResource.cache
+D:\My projects C#\ProgramManager\ProgramManager\obj\Debug\ProgramManager.csproj.CoreCompileInputs.cache
+D:\My projects C#\ProgramManager\ProgramManager\obj\Debug\ProgramManager.exe
+D:\My projects C#\ProgramManager\ProgramManager\obj\Debug\ProgramManager.pdb
